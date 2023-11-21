@@ -1,5 +1,6 @@
 # AVCodecStudy_2022Version
-# include things form below :
+
+# Include the following things :
 
 # 1.media projection , socket to decodec
 
